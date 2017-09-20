@@ -1,0 +1,10 @@
+Mar 25, 2017
+- Jia Min: implemented serial communication between two boards, configured the keyboard input 
+- Kuan Ying: setup basic screen on the VGA, display input message, 
+
+April 4, 2017
+- Jia Min: verified that serial communication between two boards work (one way), began writing code to interact with audio codec
+- Kuan Ying: set up the cursor from the mouse and display it onto the VGA
+
+April 10, 2017
+- Project merged together. Fixed all bugs
